@@ -116,7 +116,7 @@ logo1 = """
 
 ╔══──────────────────────────╗─══╗
 ║ OWNER 💓💓💓AD4N BURAT          ║   ║
-║  GITHUB 💝💝💝 ADAN BURAT(RK)   ║.  ║
+║  GITHUB 💝💝💝 ADAN BURAT(RK)   ║   ║
 ║ FACEBOOK 💝💝💝ADAN BURAT       ║.  ║
 ║  ENJOY 💝💝💝Pak Cloning        ║   ║
 ║   Note 💝💝💝Use Fastest Speed NeT  ║ 
